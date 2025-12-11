@@ -1,3 +1,5 @@
+![20251211-170007](https://github.com/user-attachments/assets/2b68bf56-e6df-424f-b0bc-c08163c3c31a)
+
 # C-mo-Resolver-Captchas-ImageToText-Usando-una-Extensi-n-de-Chrome
 
 ## Introducción: Reduciendo la Fricción en Flujos de Trabajo con Muchos Captchas
